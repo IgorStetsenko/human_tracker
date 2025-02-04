@@ -8,6 +8,10 @@ def distance(pt1, pt2):
     x2,y2 = pt2
     return ((x1-x2)**2 + (y1-y2)**2)**0.5
 
+def test():
+    return none
+
+
 # the below function was taken from
 # https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/
 def non_max_suppression(boxes, overlapThresh):
