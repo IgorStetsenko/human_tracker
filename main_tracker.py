@@ -13,6 +13,15 @@ def test():
         устранил новую уязвимость"""
     return none
 
+def test2():
+    return none
+
+def test3():
+    return none
+
+def feature_1():
+    return none
+
 
 # the below function was taken from
 # https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/
